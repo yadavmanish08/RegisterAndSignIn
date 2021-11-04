@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="amateur_closet">Amateur Closet</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_signup">Not Registered? SignUp</string>
+</resources>
